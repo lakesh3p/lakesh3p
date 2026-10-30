@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.png" alt="lakesh3p" width="100%">
-
 <a href="https://lakeshop.art">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=5DBB3A&center=true&vCenter=true&width=600&lines=Hello%2C+player!+%E2%9B%8F%EF%B8%8F;I+make+3D+worlds+%F0%9F%A7%B1;and+build+web+%26+apps+%F0%9F%8C%B1;welcome+to+my+world+%F0%9F%90%B1" alt="typing">
 </a>
