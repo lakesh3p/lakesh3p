@@ -1,16 +1,69 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**lakesh3p/lakesh3p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="banner.png" alt="lakesh3p" width="100%">
 
-Here are some ideas to get you started:
+<a href="https://lakeshop.art">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=5DBB3A&center=true&vCenter=true&width=600&lines=Hello%2C+player!+%E2%9B%8F%EF%B8%8F;I+make+3D+worlds+%F0%9F%A7%B1;and+build+web+%26+apps+%F0%9F%8C%B1;welcome+to+my+world+%F0%9F%90%B1" alt="typing">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🧭 Player card
+
+| | |
+|---|---|
+| 🏷️ **Nickname** | LAkeSh0P (`lakesh3p`) |
+| ⚒️ **Class** | 3D Artist · Web & App Dev |
+| 🗺️ **Spawn point** | Moscow |
+| 🌐 **Portfolio** | [lakeshop.art](https://lakeshop.art) |
+| ✉️ **Mail** | hi@lakeshop.art |
+| 🐱 **Pet** | tamed: 1 cat |
+
+---
+
+## 🎒 Inventory
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,blender,unreal,ae,git,github" alt="skills">
+</p>
+
+> ⛏️ **Main tools:** Unreal Engine 5 · Blender · After Effects · TypeScript
+
+---
+
+## 🧱 Hotbar (projects)
+
+| Slot | Project | What it does |
+|:---:|---|---|
+| 1️⃣ | [**OneDocs**](https://github.com/lakesh3p/OneDocs) | Open source project like MS Word 📝 |
+| 2️⃣ | [**SubsFlow**](https://github.com/lakesh3p/SubsFlow) | Open source project for your subs 💎 |
+| 3️⃣ | *empty slot* | next build is coming... 🔨 |
+
+---
+
+## 🏆 Achievements unlocked
+
+- 🦈 **Pull Shark**
+- 🎲 **YOLO**
+- 🌱 **Planted first repo**
+- ⛏️ **Still mining commits**
+
+---
+
+## 🔥 Currently crafting
+
+- 🧊 new 3D scenes in UE5
+- 🧩 updates for OneDocs and SubsFlow
+- 🐾 a cute low-poly cat for my avatar
+
+---
+
+<div align="center">
+
+⭐ *Leave a star = give me a diamond* 💎
+
+<img src="https://img.shields.io/badge/Made%20with-Blocks%20%26%20Love-5DBB3A?style=for-the-badge&labelColor=5B3A1E" alt="made with blocks and love">
+
+</div>
