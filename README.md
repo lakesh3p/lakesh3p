@@ -43,7 +43,8 @@
 |:---:|---|---|
 | 1️⃣ | [**OneDocs**](https://github.com/lakesh3p/OneDocs) | Open source project like MS Word 📝 |
 | 2️⃣ | [**SubsFlow**](https://github.com/lakesh3p/SubsFlow) | Open source project for your subs 💎 |
-| 3️⃣ | *empty slot* | next build is coming... 🔨 |
+| 3️⃣ | [**Magnum Engine**]((https://github.com/lakesh3p/Magnum-Engine)) | Open source engine with love ❤️ |
+| 4️⃣ | *empty slot* | next build is coming... 🔨 |
 
 ---
 
