@@ -23,7 +23,7 @@
 | 🗺️ **Spawn point** | Moscow |
 | 🌐 **Portfolio** | [lakeshop.art](https://lakeshop.art) |
 | ✉️ **Mail** | hi@lakeshop.art |
-| 🐱 **Pet** | tamed: 1 cat |
+| 🐱 **Pet** | tamed: 2 cat |
 
 ---
 
