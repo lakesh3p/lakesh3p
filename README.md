@@ -6,13 +6,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=5DBB3A&center=true&vCenter=true&width=600&lines=Hello%2C+player!+%E2%9B%8F%EF%B8%8F;I+make+3D+worlds+%F0%9F%A7%B1;and+build+web+%26+apps+%F0%9F%8C%B1;welcome+to+my+world+%F0%9F%90%B1" alt="typing">
 </a>
 
+<h1>⛏️ LAkeSh0P ⛏️</h1>
+
+<img src="https://img.shields.io/badge/3D-Artist-5DBB3A?style=for-the-badge&labelColor=5B3A1E" alt="3D Artist">
+<img src="https://img.shields.io/badge/Web_%26_App-Dev-5DBB3A?style=for-the-badge&labelColor=5B3A1E" alt="Web & App Dev">
+<img src="https://img.shields.io/badge/Unreal-Engine_5-5DBB3A?style=for-the-badge&labelColor=5B3A1E" alt="Unreal Engine 5">
+
 </div>
 
 ---
 
 ## 🧭 Player card
 
-| | |
+| 🎮 Stat | 📜 Value |
 |---|---|
 | 🏷️ **Nickname** | LAkeSh0P (`lakesh3p`) |
 | ⚒️ **Class** | 3D Artist · Web & App Dev |
