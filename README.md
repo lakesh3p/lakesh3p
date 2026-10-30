@@ -58,9 +58,7 @@
 
 ## 🔥 Currently crafting
 
-- 🧊 new 3D scenes in UE5
-- 🧩 updates for OneDocs and SubsFlow
-- 🐾 a cute low-poly cat for my avatar
+- ❤️ Magnum Engine
 
 ---
 
