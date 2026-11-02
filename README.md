@@ -1,72 +1,68 @@
 <div align="center">
 
+<sub>3D ARTIST &nbsp; / &nbsp; WEB &amp; APP DEVELOPER &nbsp; / &nbsp; MOSCOW</sub>
+
+# LAkeSh0P
+
+**A little world of art & code.**
+
 <a href="https://lakeshop.art">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=5DBB3A&center=true&vCenter=true&width=600&lines=Hello%2C+player!+%E2%9B%8F%EF%B8%8F;I+make+3D+worlds+%F0%9F%A7%B1;and+build+web+%26+apps+%F0%9F%8C%B1;welcome+to+my+world+%F0%9F%90%B1" alt="typing">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=20&amp;duration=3000&amp;pause=1600&amp;color=A3E635&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=48&amp;lines=Hello%2C+player.;I+create+3D+worlds.;I+build+websites+%26+apps.;Welcome+to+my+workbench." alt="Hello, player. I create 3D worlds and build websites and apps." width="640">
 </a>
 
-<h1>⛏️ LAkeSh0P ⛏️</h1>
+I'm **LAkeSh0P** (`lakesh3p`), a 3D artist and developer based in Moscow.<br>
+I create 3D worlds and build open-source software.
 
-<img src="https://img.shields.io/badge/3D-Artist-5DBB3A?style=for-the-badge&labelColor=5B3A1E" alt="3D Artist">
-<img src="https://img.shields.io/badge/Web_%26_App-Dev-5DBB3A?style=for-the-badge&labelColor=5B3A1E" alt="Web & App Dev">
-<img src="https://img.shields.io/badge/Unreal-Engine_5-5DBB3A?style=for-the-badge&labelColor=5B3A1E" alt="Unreal Engine 5">
+<a href="https://lakeshop.art"><img src="https://img.shields.io/badge/Explore_my_portfolio-A3E635?style=for-the-badge&amp;logoColor=101810" alt="Explore my portfolio"></a>
+&nbsp;
+<a href="mailto:hi@lakeshop.art"><img src="https://img.shields.io/badge/Say_hello-18231D?style=for-the-badge&amp;logo=gmail&amp;logoColor=A3E635" alt="Email me at hi@lakeshop.art"></a>
 
 </div>
 
----
+<br>
 
-## 🧭 Player card
+## On my workbench
 
-| 🎮 Stat | 📜 Value |
-|---|---|
-| 🏷️ **Nickname** | LAkeSh0P (`lakesh3p`) |
-| ⚒️ **Class** | 3D Artist · Web & App Dev |
-| 🗺️ **Spawn point** | Moscow |
-| 🌐 **Portfolio** | [lakeshop.art](https://lakeshop.art) |
-| ✉️ **Mail** | hi@lakeshop.art |
-| 🐱 **Pet** | tamed: 2 cat |
+**Currently crafting → [Magnum Engine](https://github.com/lakesh3p/Magnum-Engine)**<br>
+An open-source engine, built with love. My current main quest.
 
----
+| Project | What I'm building |
+| :--- | :--- |
+| [**OneDocs ↗**](https://github.com/lakesh3p/OneDocs) | A document editor inspired by Word and Google Docs, with A4 pagination, voice typing and local file support. |
+| [**SubsFlow ↗**](https://github.com/lakesh3p/SubsFlow) | A subscription manager for organizing recurring payments and tracking monthly and yearly costs. |
 
-## 🎒 Inventory
+## Tools of the trade
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,blender,unreal,ae,git,github" alt="skills">
+  <img src="https://skillicons.dev/icons?i=blender,unreal,ae,ts,git,github&amp;theme=dark&amp;perline=6" alt="Blender, Unreal Engine, After Effects, TypeScript, Git and GitHub" height="48">
 </p>
 
-> ⛏️ **Main tools:** Unreal Engine 5 · Blender · After Effects · TypeScript
+**3D & motion** · Blender / Unreal Engine 5 / After Effects<br>
+**Development** · TypeScript / Git / GitHub
 
----
+## Behind the blocks
 
-## 🧱 Hotbar (projects)
+Moscow is my spawn point. Two cats are my companions.<br>
+Usually somewhere between a 3D scene and the next commit.
 
-| Slot | Project | What it does |
-|:---:|---|---|
-| 1️⃣ | [**OneDocs**](https://github.com/lakesh3p/OneDocs) | Open source project like MS Word 📝 |
-| 2️⃣ | [**SubsFlow**](https://github.com/lakesh3p/SubsFlow) | Open source project for your subs 💎 |
-| 3️⃣ | [**Magnum Engine**](https://github.com/lakesh3p/Magnum-Engine) | Open source engine with love ❤️ |
-| 4️⃣ | *empty slot* | next build is coming... 🔨 |
+<details>
+<summary>Side quests & achievements</summary>
 
----
+- 🦈 **Pull Shark** and 🎲 **YOLO** unlocked.
+- 🌱 First repository planted. Still mining commits.
+- 🐈 Two cats tamed. The keyboard is theirs now.
 
-## 🏆 Achievements unlocked
+</details>
 
-- 🦈 **Pull Shark**
-- 🎲 **YOLO**
-- 🌱 **Planted first repo**
-- ⛏️ **Still mining commits**
-
----
-
-## 🔥 Currently crafting
-
-- ❤️ Magnum Engine
+<br>
 
 ---
 
 <div align="center">
 
-⭐ *Leave a star = give me a diamond* 💎
+**Have something in mind? Let's talk.**<br>
+[lakeshop.art](https://lakeshop.art) · [hi@lakeshop.art](mailto:hi@lakeshop.art)
 
-<img src="https://img.shields.io/badge/Made%20with-Blocks%20%26%20Love-5DBB3A?style=for-the-badge&labelColor=5B3A1E" alt="made with blocks and love">
+<sub>Thanks for visiting my little corner of GitHub. A star is always a welcome diamond. 💎</sub>
 
 </div>
