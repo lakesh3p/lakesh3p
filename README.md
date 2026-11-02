@@ -31,11 +31,15 @@
 <img src="./assets/title-inventory.svg" width="100%" alt="Inventory">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unreal,blender,ae,ts,git,github&perline=6" alt="Unreal Engine, Blender, After Effects, TypeScript, Git, GitHub">
+  <img src="https://skillicons.dev/icons?i=rust,ts,cpp,lua,py&perline=5" alt="Rust, TypeScript, C++, Lua, Python">
+  <br>
+  <sub>⚔️ <b>Stack</b> &nbsp;·&nbsp; Rust &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; C++ &nbsp;·&nbsp; Lua &nbsp;·&nbsp; Python</sub>
 </p>
 
 <p align="center">
-  <sub>⛏️ <b>Main tools</b> &nbsp;·&nbsp; Unreal Engine 5 &nbsp;·&nbsp; Blender &nbsp;·&nbsp; After Effects &nbsp;·&nbsp; TypeScript</sub>
+  <img src="https://skillicons.dev/icons?i=vscode,rider,ae,unreal,blender&perline=5" alt="VS Code, JetBrains Rider, After Effects, Unreal Engine 5, Blender">
+  <br>
+  <sub>⛏️ <b>Programs</b> &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; JetBrains Rider &nbsp;·&nbsp; After Effects &nbsp;·&nbsp; Unreal Engine 5 &nbsp;·&nbsp; Blender</sub>
 </p>
 
 <br>
