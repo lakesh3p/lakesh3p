@@ -1,78 +1,73 @@
-<a href="https://lakeshop.art">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakesh3p/lakesh3p/main/assets/header-night.svg">
-    <img src="https://raw.githubusercontent.com/lakesh3p/lakesh3p/main/assets/header-day.svg" width="100%" alt="LAkeSh0P — 3D Artist · Web & App Dev">
-  </picture>
-</a>
-
 <div align="center">
 
+<sub>3D ARTIST &nbsp; / &nbsp; WEB &amp; APP DEVELOPER &nbsp; / &nbsp; MOSCOW</sub>
+
+# LAkeSh0P
+
+**A little world of art & code.**
+
 <a href="https://lakeshop.art">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=5DBB3A&center=true&vCenter=true&width=600&lines=Hello%2C+player!+%E2%9B%8F%EF%B8%8F;I+make+3D+worlds+%F0%9F%A7%B1;and+build+web+%26+apps+%F0%9F%8C%B1;welcome+to+my+world+%F0%9F%90%B1" alt="Hello, player! I make 3D worlds and build web & apps. Welcome to my world.">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=20&amp;duration=3000&amp;pause=1600&amp;color=A3E635&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=48&amp;lines=Hello%2C+player.;I+create+3D+worlds.;I+build+websites+%26+apps.;Welcome+to+my+workbench." alt="Hello, player. I create 3D worlds and build websites and apps." width="640">
 </a>
 
-<br>
+I'm **LAkeSh0P** (`lakesh3p`), a 3D artist and developer based in Moscow.<br>
+I create 3D worlds and build open-source software.
 
-<a href="https://lakeshop.art"><img src="https://img.shields.io/badge/Portfolio-lakeshop.art-5DBB3A?style=for-the-badge&labelColor=5B3A1E&logo=googlechrome&logoColor=white" alt="Portfolio: lakeshop.art"></a>
-<a href="mailto:hi@lakeshop.art"><img src="https://img.shields.io/badge/Mail-hi%40lakeshop.art-5DBB3A?style=for-the-badge&labelColor=5B3A1E&logo=maildotru&logoColor=white" alt="Mail: hi@lakeshop.art"></a>
-<img src="https://img.shields.io/badge/Spawn-Moscow-5DBB3A?style=for-the-badge&labelColor=5B3A1E&logo=googlemaps&logoColor=white" alt="Spawn point: Moscow">
-<img src="https://komarev.com/ghpvc/?username=lakesh3p&label=Players%20visited&color=5DBB3A&style=for-the-badge" alt="Profile views">
+<a href="https://lakeshop.art"><img src="https://img.shields.io/badge/Explore_my_portfolio-A3E635?style=for-the-badge&amp;logoColor=101810" alt="Explore my portfolio"></a>
+&nbsp;
+<a href="mailto:hi@lakeshop.art"><img src="https://img.shields.io/badge/Say_hello-18231D?style=for-the-badge&amp;logo=gmail&amp;logoColor=A3E635" alt="Email me at hi@lakeshop.art"></a>
 
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/lakesh3p/lakesh3p/main/assets/title-player.svg" width="100%" alt="Player card">
+## On my workbench
 
-<img src="https://raw.githubusercontent.com/lakesh3p/lakesh3p/main/assets/player-card.svg" width="100%" alt="Nickname LAkeSh0P (@lakesh3p) · Class: 3D Artist, Web & App Dev · Spawn: Moscow · Portfolio: lakeshop.art · Mail: hi@lakeshop.art · Pets: 2 tamed cats">
+**Currently crafting → [Magnum Engine](https://github.com/lakesh3p/Magnum-Engine)**<br>
+An open-source engine, built with love. My current main quest.
 
-<br>
+| Project | What I'm building |
+| :--- | :--- |
+| [**OneDocs ↗**](https://github.com/lakesh3p/OneDocs) | A document editor inspired by Word and Google Docs, with A4 pagination, voice typing and local file support. |
+| [**SubsFlow ↗**](https://github.com/lakesh3p/SubsFlow) | A subscription manager for organizing recurring payments and tracking monthly and yearly costs. |
 
-<img src="https://raw.githubusercontent.com/lakesh3p/lakesh3p/main/assets/title-inventory.svg" width="100%" alt="Inventory">
+## Tools of the trade
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,ts,cpp,lua,py&perline=5" alt="Rust, TypeScript, C++, Lua, Python">
+  <img src="https://skillicons.dev/icons?i=rust,ts,cpp,lua,py&amp;perline=5" alt="Rust, TypeScript, C++, Lua, Python">
   <br>
   <sub>⚔️ <b>Stack</b> &nbsp;·&nbsp; Rust &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; C++ &nbsp;·&nbsp; Lua &nbsp;·&nbsp; Python</sub>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,rider,ae,unreal,blender&perline=5" alt="VS Code, JetBrains Rider, After Effects, Unreal Engine 5, Blender">
+  <img src="https://skillicons.dev/icons?i=vscode,rider,ae,unreal,blender&amp;perline=5" alt="VS Code, JetBrains Rider, After Effects, Unreal Engine 5, Blender">
   <br>
   <sub>⛏️ <b>Programs</b> &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; JetBrains Rider &nbsp;·&nbsp; After Effects &nbsp;·&nbsp; Unreal Engine 5 &nbsp;·&nbsp; Blender</sub>
 </p>
 
-<br>
+## Behind the blocks
 
-<img src="https://raw.githubusercontent.com/lakesh3p/lakesh3p/main/assets/title-hotbar.svg" width="100%" alt="Hotbar: projects">
+Moscow is my spawn point. Two cats are my companions.<br>
+Usually somewhere between a 3D scene and the next commit.
 
-<p align="center">
-  <a href="https://github.com/lakesh3p/OneDocs"><img src="https://raw.githubusercontent.com/lakesh3p/lakesh3p/main/assets/card-onedocs.svg" width="49%" alt="Slot 1 — OneDocs: open source alternative to MS Word"></a>
-  <a href="https://github.com/lakesh3p/SubsFlow"><img src="https://raw.githubusercontent.com/lakesh3p/lakesh3p/main/assets/card-subsflow.svg" width="49%" alt="Slot 2 — SubsFlow: open source project for your subs"></a>
-  <a href="https://github.com/lakesh3p/Magnum-Engine"><img src="https://raw.githubusercontent.com/lakesh3p/lakesh3p/main/assets/card-magnum.svg" width="49%" alt="Slot 3 — Magnum Engine: open source engine, built with love"></a>
-  <img src="https://raw.githubusercontent.com/lakesh3p/lakesh3p/main/assets/card-empty.svg" width="49%" alt="Slot 4 — empty: next build is coming">
-</p>
+<details>
+<summary>Side quests & achievements</summary>
 
-<br>
+- 🦈 **Pull Shark** and 🎲 **YOLO** unlocked.
+- 🌱 First repository planted. Still mining commits.
+- 🐈 Two cats tamed. The keyboard is theirs now.
 
-<img src="https://raw.githubusercontent.com/lakesh3p/lakesh3p/main/assets/title-achievements.svg" width="100%" alt="Achievements">
-
-<img src="https://raw.githubusercontent.com/lakesh3p/lakesh3p/main/assets/achievements.svg" width="100%" alt="Achievements unlocked: Pull Shark · YOLO · Planted first repo · Still mining commits">
+</details>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/lakesh3p/lakesh3p/main/assets/title-crafting.svg" width="100%" alt="Now crafting">
-
-<a href="https://github.com/lakesh3p/Magnum-Engine">
-  <img src="https://raw.githubusercontent.com/lakesh3p/lakesh3p/main/assets/crafting.svg" width="100%" alt="Currently crafting: Magnum Engine — open source engine, made with love. Status: in progress">
-</a>
-
-<br><br>
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lakesh3p/lakesh3p/main/assets/footer.svg" width="100%" alt="Leave a star = give me a diamond">
+**Have something in mind? Let's talk.**<br>
+[lakeshop.art](https://lakeshop.art) · [hi@lakeshop.art](mailto:hi@lakeshop.art)
 
-<img src="https://img.shields.io/badge/Made%20with-Blocks%20%26%20Love-5DBB3A?style=for-the-badge&labelColor=5B3A1E" alt="Made with blocks and love">
+<sub>Thanks for visiting my little corner of GitHub. A star is always a welcome diamond. 💎</sub>
 
 </div>
